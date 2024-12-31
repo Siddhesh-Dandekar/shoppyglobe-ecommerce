@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.anton-sc-regular {
+  font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.new-amsterdam-regular {
+  font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
+.handjet-font {
+  font-family: "Handjet", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+      "ELGR" 1,
+      "ELSH" 2;
+}
+
+.playwrite-nz-cl {
+  font-family: "Playwrite NZ", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.oleo-script-regular {
+  font-family: "Oleo Script", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.oleo-script-bold {
+  font-family: "Oleo Script", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.inter-tight-f {
+  font-family: "Inter Tight", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#add {
+  padding-left: 42px;
+  background-image: url('https://img.icons8.com/color/32/search--v1.png');
+  background-repeat: no-repeat;
+  background-position: 5px center;
+  outline: 0;
+}
+
+.navshadow{
+  filter:drop-shadow(0px 0px 2px black)
+}
