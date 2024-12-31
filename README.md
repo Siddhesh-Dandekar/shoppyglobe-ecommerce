@@ -1,5 +1,8 @@
 # React Project "ShoppyGlobe E-commerce Application"
 
+# Live Preview
+> https://shoppyglobe-ecommerce.netlify.app/
+
 # Project Objective
 
  1. Component Structure:
